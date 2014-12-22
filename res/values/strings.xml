@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">电厂云图</string>
+    <string name="title_activity_main">电厂云图</string>
+    <string name="title_activity_fgs">title_activity_fgs</string>
+    <string name="title_activity_dc">title_activity_dc</string>
+    <string name="title_activity_jz">title_activity_jz</string>
+    <string name="title_activity_title">电厂云图</string>
+    <string name="title_activity_login">电厂云图</string>
+    <string name="title_activity_loading">电厂云图</string>
+    <string name="title_activity_welcome">电厂云图</string>
+    <string name="title_activity_setting">电厂云图</string>
+    <string name="title_activity_userinfo">电厂云图</string>
+    <string name="title_activity_changepw">电厂云图</string>
+    <string name="title_activity_about">电厂云图</string>
+    <string name="title_activity_help">MainActivity</string>
+    <string name="hello_world">Hello world!</string>
+
+</resources>
